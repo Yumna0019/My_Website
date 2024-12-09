@@ -2,7 +2,7 @@
 
 A responsive portfolio website built using HTML, CSS, and JavaScript 
 
-🌐 **Live Demo**: [Responsive Website](https://responsive-website-001.netlify.app/)  
+🌐 **Live Demo**: [Responsive Website](https://my-website-yy.netlify.app/)  
 
 ---
 
