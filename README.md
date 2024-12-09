@@ -1,6 +1,6 @@
 # My Website
 
-A responsive portfolio website built using HTML, CSS, and JavaScript 
+A responsive website built using HTML, CSS, and JavaScript. 
 
 🌐 **Live Demo**: [Responsive Website](https://my-website-yy.netlify.app/)  
 
