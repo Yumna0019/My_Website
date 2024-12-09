@@ -11,6 +11,7 @@ A responsive portfolio website built using HTML, CSS, and JavaScript
 - Fully responsive design for seamless viewing across devices.
 - Clean and modern layout for easy navigation.
 - Sections for:
+  - Home 
   - Category
   - About Me
   - Contact
